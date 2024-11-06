@@ -6,3 +6,6 @@
 
 Conky is known for its flexibility: users can design their own configurations or apply community-shared ones to match their desktop aesthetics and functional needs.
 
+How it currently looks:
+
+![Conky Screenshot](./assets/screenshot.png)
